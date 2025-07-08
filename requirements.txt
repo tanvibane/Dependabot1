@@ -1,4 +1,4 @@
 
-Flask==1.0  # Old and has known vulnerabilities
-requests==2.19.1  # Outdated with SSL-related issues
+Flask==2.2.5  # Old and has known vulnerabilities
+requests==2.32.4  # Outdated with SSL-related issues
 Django==4.2.22  # Vulnerable to XSS and SQL injection
